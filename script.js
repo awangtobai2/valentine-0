@@ -1,6 +1,6 @@
 const openingScreen = document.getElementById('openingScreen');
 const mainContent = document.getElementById('mainContent');
-const crushNameInput = document.getElementById('crushName');
+const crushNameInput = document.getElementById('rianaaprilia');
 const startButton = document.getElementById('startButton');
 const displayName = document.getElementById('displayName');
 const messageContainer = document.getElementById('messageContainer');
